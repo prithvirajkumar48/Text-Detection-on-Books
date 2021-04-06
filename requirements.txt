@@ -1,0 +1,10 @@
+the following modules have to be installed for this application to run:
+
+
+1. Pillow - Image Library - pip install pillow
+
+2. Opencv - Image and Video Processing Library - pip install opencv-contrib-python
+
+3. Imutils - Image Library - pip install imutils
+
+4. Pytesseract - Optical Character recognition tool - pip install pytesseract
